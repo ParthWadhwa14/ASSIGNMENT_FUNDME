@@ -1,0 +1,9 @@
+opencv-python
+matplotlib
+scikit-learn
+numpy
+pandas
+torch==2.1.0
+torchvision==0.16.0
+opencv-python
+git+https://github.com/facebookresearch/segment-anything.git

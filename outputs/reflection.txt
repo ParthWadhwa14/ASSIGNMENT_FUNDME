@@ -1,0 +1,7 @@
+"Reasons for failure can be":
+1)(this reason is not the segmentation failure but the failure that can occure due to segmentation)If the image is having multiple sealents, not in a continious flow or spatters of the sealent material, which can lead to over calculation of the area and can lead to wrong results
+2)The color of the sealent and the metal can be identical that can lead to failure of segmentation
+3)The lightning conditions are not appropiate which leads to wrong image segmentation, also many other image unclarity conditions can lead to this
+
+"One improvement you’d make if you had 2 more days to work."
+I will like to train the model based on the previous factory conditions and images or want to do segmentation based on factory specific conditions, also imroving the way spatters etc are elemeneted from the segmentated process
